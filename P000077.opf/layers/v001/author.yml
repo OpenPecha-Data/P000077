@@ -1,0 +1,7 @@
+id: e9f9e7ea745b48b8943da02531cd56c7
+annotation_type: author
+revision: '00001'
+annotations:
+- span:
+    start: 42
+    end: 77
