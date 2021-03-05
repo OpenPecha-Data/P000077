@@ -1,13 +1,15 @@
-ebook_metadata:
+id: P000077
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །ཡ་མཚན་སྤྲུལ་པའི་གླེགས་བམ་བཞུགས་སོ། །
   authors:
   - མཛད་པ་པོ། ཞབས་དཀར་ཚོགས་དྲུག་རང་གྲོལ།
-  sku: SHE-SHAP-06
   layers:
   - book_title
   - author
   - quotation
   - yigchung
+  id: SHE-SHAP-06
 web_metadata:
   title:
     en: The Book of Amazing Emanated Scriptures
